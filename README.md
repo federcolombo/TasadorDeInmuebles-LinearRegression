@@ -1,5 +1,5 @@
 # Precios de propiedades
-EDA y modelo de regresión lineal multivareado para predecir valor de una propiedad.
+EDA y modelo de regresión lineal múltiple para predecir valor de una propiedad.
 
 # Dataset information
 Dataset de precios de propiedades de Properatti.
